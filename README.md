@@ -1,8 +1,6 @@
 Memories
 ========
 
-[Live website](https://utkarsh-memories.netlify.app/)
-
 "Memories" is a dynamic full-stack application developed using the MERN (MongoDB, Express, ReactJS, NodeJS) technology stack. This app provides users with a platform to share and relive significant moments from their lives. By combining ReactJS for the frontend, NodeJS with Express for the backend, and MongoDB for the database, "Memories" offers a seamless and interactive experience.
 
 The core concept of the "Memories" application is to serve as a straightforward yet engaging social media platform. Users can create posts to share interesting and meaningful events that have occurred in their lives. Whether it's an exciting adventure, a heartwarming story, or any other memorable moment, users can compose and publish posts to capture these experiences.
