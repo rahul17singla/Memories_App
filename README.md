@@ -13,8 +13,3 @@ In summary, "Memories" is a MERN full-stack application that enables users to cr
 
 ![Main Page without Sign-In](./assets/main_page.png)  
 
-![User Sign-Up](./assets/sign_up_page.png)   
-
-![Signed In User's Main Page](./assets/main_page_signed_in.png)  
-
-![Post Details Page](./assets/post_details_page.png)  
