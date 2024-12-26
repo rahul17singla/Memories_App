@@ -11,5 +11,3 @@ Through its integration of ReactJS, the frontend offers a dynamic and visually a
 
 In summary, "Memories" is a MERN full-stack application that enables users to create, share, and engage with personal memories and stories. By combining these technologies, it provides a comprehensive platform for connecting with others through the joyous moments that shape our lives.  
 
-![Main Page without Sign-In](./assets/main_page.png)  
-
